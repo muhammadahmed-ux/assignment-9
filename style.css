@@ -1,0 +1,17 @@
+p {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;}
+
+    hr {
+        width: 1000px;}
+
+    p {
+        word-spacing: 4em;
+    height: 70px;}
+
+    span {
+        word-spacing: 0.2em;}
+
+    img {
+        text-align: center;}
